@@ -5,8 +5,6 @@ Redux cookie persister and middleware
 [![Month Downloads](https://img.shields.io/npm/dm/redux-cookie-persist.svg)](http://npm-stat.com/charts.html?package=redux-cookie-persist)
 [![Npm Licence](https://img.shields.io/npm/l/redux-cookie-persist.svg)](https://www.npmjs.com/package/redux-cookie-persist)
 
-[![NPM](https://nodei.co/npm/redux-cookie-persist.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/redux-cookie-persist/)
-
 
 ## Install
 
